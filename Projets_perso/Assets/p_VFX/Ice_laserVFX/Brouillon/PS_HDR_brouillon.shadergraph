@@ -59,7 +59,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "5adf14a60faf45ed9c60dff106de1b8a"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -851,6 +855,26 @@
     },
     "m_Labels": [],
     "m_Space": 0
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "5adf14a60faf45ed9c60dff106de1b8a",
+    "m_Title": "New Note",
+    "m_Content": "pas compris pourquoi il fallait autant de nodes",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -809.0,
+        "y": -420.0,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
