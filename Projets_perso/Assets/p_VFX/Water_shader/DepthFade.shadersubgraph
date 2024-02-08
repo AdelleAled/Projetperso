@@ -41,7 +41,20 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "a7a5264883624c78a79ebd92a8f35917"
+        },
+        {
+            "m_Id": "06233fb9738d441084e40d564d1a55f1"
+        },
+        {
+            "m_Id": "eef810ce61544c1286f02d224042ee35"
+        },
+        {
+            "m_Id": "688e8b025489432ba78d26878b450d51"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -193,6 +206,26 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "06233fb9738d441084e40d564d1a55f1",
+    "m_Title": "Scene depth",
+    "m_Content": "qué?",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1361.0,
+        "y": -145.0,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 
@@ -444,6 +477,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "688e8b025489432ba78d26878b450d51",
+    "m_Title": "New Note",
+    "m_Content": "Dans l'idée: il faut connaitre la position de la scène et des objets pour jouer sur la profondeur de l'eau, et c'est ici que ça se passe. Mais comment?",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -906.0,
+        "y": -282.0,
+        "width": 341.45001220703127,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "765d8e13813c469a9aa6b447a8e37269",
     "m_Id": 1,
@@ -641,6 +694,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "a7a5264883624c78a79ebd92a8f35917",
+    "m_Title": "Divide",
+    "m_Content": "!!!!!!\nla position de A & B joue la différence, 2-10 n'est pas égale à 10-2.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -573.0,
+        "y": -1.0,
+        "width": 200.0001220703125,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "af23e6de934f48f19328f517d7ca041e",
     "m_Id": 2,
@@ -832,8 +905,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1413.0,
-            "y": 117.00001525878906,
+            "x": -1411.0,
+            "y": 173.99998474121095,
             "width": 208.0,
             "height": 313.0
         }
@@ -867,6 +940,26 @@
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "eef810ce61544c1286f02d224042ee35",
+    "m_Title": "Screen position",
+    "m_Content": "ok dans l'idée mais s'utilise dans quels cas?",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1420.0,
+        "y": 111.0,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
