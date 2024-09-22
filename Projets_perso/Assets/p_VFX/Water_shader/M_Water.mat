@@ -56,9 +56,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _Distance: 3.93
-    - _FoamAmount: 1
-    - _FoamCuttoff: 2
-    - _FoamScale: 1
+    - _FoamAmount: 0.37
+    - _FoamCuttoff: 1.54
+    - _FoamScale: 3.4
     - _FoamSpeed: 0.1
     - _HightFrequency: 0.97
     - _Noise_scale: 2
@@ -72,10 +72,10 @@ Material:
     - _WavesAmplitude: 0.04
     - _WavesSpeed: 1
     m_Colors:
-    - _DeepColor: {r: 0.039215703, g: 0.37314838, b: 0.6039216, a: 0.85882354}
+    - _DeepColor: {r: 0.039215703, g: 0.37314835, b: 0.6039216, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
     - _RefractionScale: {r: 1, g: 1, b: 0, a: 0}
     - _RefractionScale1: {r: 1, g: 1, b: 0, a: 0}
     - _RefractionScale2: {r: 1.12, g: 1.09, b: 0, a: 0}
-    - _SurfaceColor: {r: 0, g: 0.85882354, b: 0.73893154, a: 0}
+    - _SurfaceColor: {r: 0, g: 0.85882354, b: 0.7389315, a: 0}
   m_BuildTextureStacks: []
