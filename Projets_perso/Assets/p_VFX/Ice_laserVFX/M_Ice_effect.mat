@@ -55,10 +55,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Noise: -0.14
+    - _Noise: 1.46
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Voronoi: 1.73
+    - _Voronoi: 0.6
     m_Colors:
     - _Main_Color: {r: 10.465162, g: 8.7666445, b: 45.25485, a: 0}
     - _Mesh_deform: {r: 0.98, g: 0, b: 1, a: 0}
