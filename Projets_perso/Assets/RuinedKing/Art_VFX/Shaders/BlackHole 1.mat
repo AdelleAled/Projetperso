@@ -38,13 +38,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Emissive: 10.12
+    - _Emissive: 12.15
     - _Power: -1.62
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _CenterColor: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.9529412, g: 0.3055084, b: 0, a: 0}
+    - _Color: {r: 0.05069125, g: 0, b: 0.9529412, a: 0}
     - _Radius: {r: 2.08, g: 0.17, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2526565241962430001

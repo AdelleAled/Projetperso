@@ -57,7 +57,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _ENUM: 0
-    - _Emissive: 10
+    - _Emissive: 5
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []
