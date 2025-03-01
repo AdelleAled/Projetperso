@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Star
+  m_Name: M_BlackHole
   m_Shader: {fileID: -6465566751694194690, guid: 3b93cd87c3e55244c9b71123c467a4e7,
     type: 3}
   m_Parent: {fileID: 0}
@@ -38,14 +38,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Emissive: 2
-    - _Power: 1.02
+    - _Emissive: 5
+    - _Power: -1.62
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _CenterColor: {r: 1, g: 0.909089, b: 0.3537736, a: 0}
-    - _Color: {r: 0.9529412, g: 0.66336536, b: 0, a: 0}
-    - _Radius: {r: 0.67, g: 0.29, b: 0, a: 0}
+    - _CenterColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.9529412, g: 0.3055084, b: 0, a: 0}
+    - _Radius: {r: 5.8, g: 2.08, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2526565241962430001
 MonoBehaviour:
