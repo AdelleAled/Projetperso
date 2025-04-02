@@ -56,9 +56,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _DepthBlend: 1
     - _ENUM: 0
     - _Emissive: 5
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _depth: 1
     m_Colors: []
   m_BuildTextureStacks: []
