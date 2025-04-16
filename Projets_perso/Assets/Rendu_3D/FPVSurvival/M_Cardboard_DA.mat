@@ -62,16 +62,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Gradient_range: 0.69
+    - _Gradient_range: 1.1
     - _Mask_opacity: 0.41
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Range: 0.17
+    - _Range: 1.57
     - _Roughness: 0.37
     - _Smooth: 1
     - _Tile: 1.76
     - _Tile_1: 2.54
-    - _Tiling: 5.53
+    - _Tiling: 5.96
     - _crayonn_op: 13.34
     - _opacity: 1
     m_Colors:
