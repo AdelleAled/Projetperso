@@ -56,7 +56,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DepthBlend: 1
+    - _DepthBlend: 0.2
     - _ENUM: 0
     - _Emissive: 5
     - _QueueControl: 0
