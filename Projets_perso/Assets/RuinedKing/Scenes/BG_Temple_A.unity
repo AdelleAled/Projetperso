@@ -380069,7 +380069,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1875608187882424, guid: 3b534a682606cd341812c5e458ffc841, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4268362796489448, guid: 3b534a682606cd341812c5e458ffc841, type: 3}
       propertyPath: m_LocalPosition.x
@@ -608233,7 +608233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1490213372179518, guid: d0457d852e573784ab80bc583fec99c0, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4150916500272411, guid: d0457d852e573784ab80bc583fec99c0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -820984,6 +820984,11 @@ PrefabInstance:
       objectReference: {fileID: 1606393368}
     - target: {fileID: 2915568896661888979, guid: 21825612a82367b489b68b2e1f305409,
         type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2915568896661888979, guid: 21825612a82367b489b68b2e1f305409,
+        type: 3}
       propertyPath: CollisionModule.m_Planes.Array.data[0]
       value: 
       objectReference: {fileID: 1606393368}
@@ -821076,6 +821081,11 @@ PrefabInstance:
         type: 3}
       propertyPath: CustomDataModule.vector0_1.maxCurve.m_Curve.Array.data[0].value
       value: 0.0530995
+      objectReference: {fileID: 0}
+    - target: {fileID: 7949889637459513609, guid: 21825612a82367b489b68b2e1f305409,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.91
       objectReference: {fileID: 0}
     - target: {fileID: 8113135093531655132, guid: 21825612a82367b489b68b2e1f305409,
         type: 3}
