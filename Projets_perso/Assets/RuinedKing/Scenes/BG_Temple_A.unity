@@ -256142,6 +256142,7 @@ PlayableDirector:
   m_ExposedReferences:
     m_References:
     - eedff0de50dda394c92bc9b2ee36363d: {fileID: 796865104}
+    - c843fbb74829580478de0e4fde179c0e: {fileID: 796865104}
     - 398134b2d5a889e4aa5aa91b6178c848: {fileID: 796865104}
     - 2f14fdf3b5d413e45a72287cb390f614: {fileID: 796865104}
 --- !u!4 &663167406
@@ -820979,96 +820980,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 938206186276518130, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_Pivot.y
-      value: -0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 938206186276518130, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_Pivot.z
-      value: -0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 938206186276518130, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_MaxParticleSize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 938206186276518130, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_UseCustomVertexStreams
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2407629471523518209, guid: 21825612a82367b489b68b2e1f305409,
         type: 3}
       propertyPath: m_Name
       value: BlackHole VFX
       objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startSize.scalar
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startSize.minScalar
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startRotation.scalar
-      value: 0.17453292
-      objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startRotation.minScalar
-      value: -0.17453292
-      objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startRotation.minMaxState
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startRotationX.minMaxState
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startRotationY.minMaxState
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5083304885142766989, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6649526607195424043, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: InitialModule.startSize.scalar
-      value: 14.32
-      objectReference: {fileID: 0}
-    - target: {fileID: 7316369853811407461, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_Pivot.x
-      value: 0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 7316369853811407461, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_Pivot.y
-      value: -0.24
-      objectReference: {fileID: 0}
-    - target: {fileID: 7316369853811407461, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_MaxParticleSize
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7316369853811407461, guid: 21825612a82367b489b68b2e1f305409,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: ca48520ef06d71c4bbf9bb4262c6a5ea, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
