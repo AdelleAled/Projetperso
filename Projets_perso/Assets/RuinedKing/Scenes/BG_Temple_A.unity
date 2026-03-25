@@ -820980,10 +820980,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 624600557832566983, guid: 21825612a82367b489b68b2e1f305409,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2407629471523518209, guid: 21825612a82367b489b68b2e1f305409,
         type: 3}
       propertyPath: m_Name
       value: BlackHole VFX
+      objectReference: {fileID: 0}
+    - target: {fileID: 4769539740252437912, guid: 21825612a82367b489b68b2e1f305409,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
